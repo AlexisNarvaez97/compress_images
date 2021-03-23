@@ -20,4 +20,4 @@ def compress_images(directory=False, quality=30):
 
 # ¿Que directorio?
 directory = input('Ruta del directorio: ')
-compress_images(directory=directory, quality=35)
+compress_images(directory=directory, quality=10)
